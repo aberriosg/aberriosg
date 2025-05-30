@@ -1,0 +1,19 @@
+<svg width="320" height="60" viewBox="0 0 320 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OperationsTI logo">
+  <style>
+    .title { font: bold 28px 'Segoe UI', sans-serif; }
+    .ops { fill: #1F2A44; filter: drop-shadow(1px 1px 3px #0008); }
+    .ti { fill: #00C9C8; }
+    .icon-square { fill: #00C9C8; }
+  </style>
+  <!-- Icono a la izquierda -->
+  <g transform="translate(0, 4)">
+    <rect class="icon-square" x="0" y="0" width="14" height="14" rx="3"/>
+    <rect class="icon-square" x="18" y="0" width="14" height="14" rx="3"/>
+    <rect class="icon-square" x="0" y="18" width="14" height="14" rx="3"/>
+    <rect class="icon-square" x="18" y="18" width="14" height="14" rx="3"/>
+  </g>
+
+  <!-- Texto -->
+  <text x="45" y="31" class="title ops">OPERATIONS</text>
+  <text x="230" y="31" class="title ti">TI</text>
+</svg>

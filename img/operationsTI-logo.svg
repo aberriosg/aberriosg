@@ -1,0 +1,12 @@
+
+<svg width="480" height="160" viewBox="0 0 480 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="160" fill="#0B1C2C"/>
+  <g transform="translate(40,40)">
+    <path d="M0,10C0,4.5 4.5,0 10,0H25V15H15V25H0V10Z" fill="#00C9C8"/>
+    <path d="M40,0H55C60.5,0 65,4.5 65,10V25H50V15H40V0Z" fill="#00C9C8"/>
+    <path d="M0,40H15V50H25V65H10C4.5,65 0,60.5 0,55V40Z" fill="#00C9C8"/>
+    <path d="M65,40H50V50H40V65H55C60.5,65 65,60.5 65,55V40Z" fill="#00C9C8"/>
+  </g>
+  <text x="120" y="100" font-family="Segoe UI, sans-serif" font-size="48" font-weight="bold" fill="white">OPERATIONS</text>
+  <text x="360" y="100" font-family="Segoe UI, sans-serif" font-size="48" font-weight="bold" fill="#00C9C8">TI</text>
+</svg>

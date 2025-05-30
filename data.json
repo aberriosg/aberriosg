@@ -1,0 +1,29 @@
+{
+  "servicios": {
+    "desarrollo": {
+      "titulo": "Desarrollo Web & Mobile",
+      "imagen": "./img/2.jpg",
+      "descripcion": "Desarrollador trabajando en código",
+      "items": [
+        "Apps móviles personalizadas",
+        "Sitios web a medida",
+        "Integraciones con APIs",
+        "E-commerce & paneles admin"
+      ]
+    },
+    "infraestructura": {
+      "titulo": "Infraestructura y Sistemas",
+      "imagen": "./img/3.jpg",
+      "descripcion": "Infraestructura",
+      "items": [
+        "Arquitectura en la nube (AWS, GCP, Azure)",
+        "Automatización de despliegues",
+        "Monitoreo y alertas",
+        "Seguridad y recuperación"
+      ]
+    }
+  },
+  "contacto": {
+    "email": "yo@alexberrios.dev"
+  }
+} 
